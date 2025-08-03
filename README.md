@@ -12,3 +12,8 @@ A minimal, responsive To-Do List app built with HTML, CSS, and JavaScript.
 interface.html → Main HTML structure
 styles.css → Styling for the interface
 script.js → App logic and task management
+
+## 🔧 How to Use
+1. Clone the repo:
+   git clone https://github.com/your-username/Todolist.git
+2.Open interface.html in a browser.
