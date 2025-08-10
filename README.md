@@ -18,5 +18,5 @@ script.js → App logic and task management
    git clone https://github.com/vishnu-3124/Todolist.git
 2.Open interface.html in a browser.
 ## 🚀 Live Demo
-[Click here to view the project] (https://todolist3124.ccbp.tech/)
+[**Click here to view the live website**](https://todolist3124.ccbp.tech/)
 
